@@ -1,0 +1,545 @@
+1708330330: mosquitto version 2.0.18 starting
+1708330330: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330330: Opening ipv4 listen socket on port 1883.
+1708330330: Opening ipv6 listen socket on port 1883.
+1708330330: Opening websockets listen socket on port 9001.
+1708330330: mosquitto version 2.0.18 running
+1708330552: mosquitto version 2.0.18 terminating
+1708330552: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708330554: mosquitto version 2.0.18 starting
+1708330554: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330554: Opening ipv4 listen socket on port 1883.
+1708330554: Opening ipv6 listen socket on port 1883.
+1708330554: Opening websockets listen socket on port 9001.
+1708330554: Opening ipv4 listen socket on port 1883.
+1708330554: Error: Address in use
+1708330555: mosquitto version 2.0.18 starting
+1708330555: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330555: Opening ipv4 listen socket on port 1883.
+1708330555: Opening ipv6 listen socket on port 1883.
+1708330555: Opening websockets listen socket on port 9001.
+1708330555: Opening ipv4 listen socket on port 1883.
+1708330555: Error: Address in use
+1708330555: mosquitto version 2.0.18 starting
+1708330555: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330555: Opening ipv4 listen socket on port 1883.
+1708330555: Opening ipv6 listen socket on port 1883.
+1708330555: Opening websockets listen socket on port 9001.
+1708330555: Opening ipv4 listen socket on port 1883.
+1708330555: Error: Address in use
+1708330556: mosquitto version 2.0.18 starting
+1708330556: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330556: Opening ipv4 listen socket on port 1883.
+1708330556: Opening ipv6 listen socket on port 1883.
+1708330556: Opening websockets listen socket on port 9001.
+1708330556: Opening ipv4 listen socket on port 1883.
+1708330556: Error: Address in use
+1708330557: mosquitto version 2.0.18 starting
+1708330557: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330557: Opening ipv4 listen socket on port 1883.
+1708330557: Opening ipv6 listen socket on port 1883.
+1708330557: Opening websockets listen socket on port 9001.
+1708330557: Opening ipv4 listen socket on port 1883.
+1708330557: Error: Address in use
+1708330559: mosquitto version 2.0.18 starting
+1708330559: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330559: Opening ipv4 listen socket on port 1883.
+1708330559: Opening ipv6 listen socket on port 1883.
+1708330559: Opening websockets listen socket on port 9001.
+1708330559: Opening ipv4 listen socket on port 1883.
+1708330559: Error: Address in use
+1708330563: mosquitto version 2.0.18 starting
+1708330563: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330563: Opening ipv4 listen socket on port 1883.
+1708330563: Opening ipv6 listen socket on port 1883.
+1708330563: Opening websockets listen socket on port 9001.
+1708330563: Opening ipv4 listen socket on port 1883.
+1708330563: Error: Address in use
+1708330570: mosquitto version 2.0.18 starting
+1708330570: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330570: Opening ipv4 listen socket on port 1883.
+1708330570: Opening ipv6 listen socket on port 1883.
+1708330570: Opening websockets listen socket on port 9001.
+1708330570: Opening ipv4 listen socket on port 1883.
+1708330570: Error: Address in use
+1708330583: mosquitto version 2.0.18 starting
+1708330583: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330583: Opening ipv4 listen socket on port 1883.
+1708330583: Opening ipv6 listen socket on port 1883.
+1708330583: Opening websockets listen socket on port 9001.
+1708330583: Opening ipv4 listen socket on port 1883.
+1708330583: Error: Address in use
+1708330600: mosquitto version 2.0.18 starting
+1708330600: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330600: Opening ipv4 listen socket on port 1883.
+1708330600: Opening ipv6 listen socket on port 1883.
+1708330600: Opening websockets listen socket on port 9001.
+1708330600: mosquitto version 2.0.18 running
+1708330690: mosquitto version 2.0.18 terminating
+1708330690: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708330694: mosquitto version 2.0.18 starting
+1708330694: Config loaded from /mosquitto/config/mosquitto.conf.
+1708330694: Opening ipv4 listen socket on port 1883.
+1708330694: Opening ipv6 listen socket on port 1883.
+1708330694: Opening websockets listen socket on port 9001.
+1708330694: mosquitto version 2.0.18 running
+1708331213: mosquitto version 2.0.18 terminating
+1708331213: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708331217: mosquitto version 2.0.18 starting
+1708331217: Config loaded from /mosquitto/config/mosquitto.conf.
+1708331217: Opening ipv4 listen socket on port 1883.
+1708331217: Opening ipv6 listen socket on port 1883.
+1708331217: Opening websockets listen socket on port 9001.
+1708331217: mosquitto version 2.0.18 running
+1708331482: New connection from 172.18.0.1:55310 on port 1883.
+1708331482: New client connected from 172.18.0.1:55310 as auto-9C86CF45-EDE3-77C1-D31C-6512DF818857 (p2, c1, k60, u'song').
+1708331485: New connection from 172.18.0.1:55312 on port 1883.
+1708331485: New connection from 172.18.0.1:55324 on port 1883.
+1708331485: New connection from 172.18.0.1:55330 on port 1883.
+1708331485: New connection from 172.18.0.1:55332 on port 1883.
+1708331485: New connection from 172.18.0.1:55348 on port 1883.
+1708331485: New connection from 172.18.0.1:55352 on port 1883.
+1708331485: Client mqttx_c46513a1 disconnected, not authorised.
+1708331485: Client mqttx_39f78e6b disconnected, not authorised.
+1708331485: Client mqttx_ceaa5e81 disconnected, not authorised.
+1708331485: Client mqttx_2a7385b8 disconnected, not authorised.
+1708331485: New client connected from 172.18.0.1:55352 as mqttx_af24ed41 (p5, c1, k60, u'song').
+1708331485: New client connected from 172.18.0.1:55348 as mqttx_3dbe8bef (p5, c1, k60, u'song').
+1708331485: New connection from 172.18.0.1:55364 on port 1883.
+1708331485: New connection from 172.18.0.1:55380 on port 1883.
+1708331485: New client connected from 172.18.0.1:55364 as mqttx_405fafe0 (p5, c1, k60, u'song').
+1708331485: Client mqttx_3a1347f7 disconnected, not authorised.
+1708331487: mosquitto version 2.0.18 terminating
+1708331487: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708331490: mosquitto version 2.0.18 starting
+1708331490: Config loaded from /mosquitto/config/mosquitto.conf.
+1708331490: Opening ipv4 listen socket on port 1883.
+1708331490: Opening ipv6 listen socket on port 1883.
+1708331490: Opening websockets listen socket on port 9001.
+1708331490: mosquitto version 2.0.18 running
+1708331490: New connection from 172.18.0.1:55394 on port 1883.
+1708331490: New client connected from 172.18.0.1:55394 as auto-8E27C99A-1DEA-DD74-1259-0220A6A64CFF (p2, c1, k60, u'song').
+1708331491: New connection from 172.18.0.1:55404 on port 1883.
+1708331491: New connection from 172.18.0.1:55428 on port 1883.
+1708331491: New connection from 172.18.0.1:55420 on port 1883.
+1708331491: New client connected from 172.18.0.1:55404 as mqttx_3dbe8bef (p5, c1, k60, u'song').
+1708331491: New client connected from 172.18.0.1:55428 as mqttx_405fafe0 (p5, c1, k60, u'song').
+1708331491: New client connected from 172.18.0.1:55420 as mqttx_af24ed41 (p5, c1, k60, u'song').
+1708331493: New connection from 172.18.0.1:43458 on port 1883.
+1708331493: Client mqttx_39f78e6b disconnected, not authorised.
+1708331497: New connection from 172.18.0.1:43472 on port 1883.
+1708331497: Client mqttx_39f78e6b disconnected, not authorised.
+1708331505: New connection from 172.18.0.1:54700 on port 1883.
+1708331505: Client mqttx_28b9c1f5 disconnected, not authorised.
+1708331516: Client auto-8E27C99A-1DEA-DD74-1259-0220A6A64CFF closed its connection.
+1708331517: Client mqttx_405fafe0 closed its connection.
+1708331517: Client mqttx_af24ed41 closed its connection.
+1708331517: Client mqttx_3dbe8bef closed its connection.
+1708391554: mosquitto version 2.0.18 starting
+1708391554: Config loaded from /mosquitto/config/mosquitto.conf.
+1708391554: Opening ipv4 listen socket on port 1883.
+1708391554: Opening ipv6 listen socket on port 1883.
+1708391554: Opening websockets listen socket on port 9001.
+1708391554: mosquitto version 2.0.18 running
+1708391637: New connection from 172.18.0.1:48804 on port 1883.
+1708391637: New client connected from 172.18.0.1:48804 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708391833: New connection from 172.18.0.1:32972 on port 1883.
+1708391833: New client connected from 172.18.0.1:32972 as user1 (p2, c0, k60, u'song').
+1708391837: Client user1 disconnected.
+1708392345: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708392350: New connection from 172.18.0.1:35122 on port 1883.
+1708392350: New client connected from 172.18.0.1:35122 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708392825: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708392830: New connection from 172.18.0.1:42398 on port 1883.
+1708392830: New client connected from 172.18.0.1:42398 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708393305: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708393309: New connection from 172.18.0.1:59810 on port 1883.
+1708393309: New client connected from 172.18.0.1:59810 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708393354: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708393725: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708393729: New connection from 172.18.0.1:42710 on port 1883.
+1708393729: New client connected from 172.18.0.1:42710 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708394205: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708394209: New connection from 172.18.0.1:41638 on port 1883.
+1708394209: New client connected from 172.18.0.1:41638 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708394625: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708394629: New connection from 172.18.0.1:36562 on port 1883.
+1708394629: New client connected from 172.18.0.1:36562 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708394788: New connection from 172.18.0.1:34962 on port 1883.
+1708394788: New client connected from 172.18.0.1:34962 as user1 (p2, c0, k60, u'song').
+1708394788: Client user1 closed its connection.
+1708394807: New connection from 172.18.0.1:38328 on port 1883.
+1708394807: New client connected from 172.18.0.1:38328 as user1 (p2, c0, k60, u'song').
+1708394811: Client user1 disconnected.
+1708394848: New connection from 172.18.0.1:60790 on port 1883.
+1708394848: New client connected from 172.18.0.1:60790 as user1 (p2, c0, k60, u'song').
+1708394852: Client user1 disconnected.
+1708395027: New connection from 172.18.0.1:50028 on port 1883.
+1708395027: New client connected from 172.18.0.1:50028 as user1 (p2, c0, k60, u'song').
+1708395031: Client user1 disconnected.
+1708395055: New connection from 172.18.0.1:49104 on port 1883.
+1708395055: New client connected from 172.18.0.1:49104 as user1 (p2, c0, k60, u'song').
+1708395059: Client user1 disconnected.
+1708395089: New connection from 172.18.0.1:51542 on port 1883.
+1708395089: New client connected from 172.18.0.1:51542 as user1 (p2, c0, k60, u'song').
+1708395093: Client user1 disconnected.
+1708395117: New connection from 172.18.0.1:41238 on port 1883.
+1708395117: New client connected from 172.18.0.1:41238 as user1 (p2, c0, k60, u'song').
+1708395121: Client user1 disconnected.
+1708395155: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708395171: New connection from 172.18.0.1:33110 on port 1883.
+1708395171: New client connected from 172.18.0.1:33110 as user1 (p2, c0, k60, u'song').
+1708395175: Client user1 disconnected.
+1708395204: New connection from 172.18.0.1:44022 on port 1883.
+1708395204: New client connected from 172.18.0.1:44022 as user1 (p2, c0, k60, u'song').
+1708395208: Client user1 closed its connection.
+1708395256: New connection from 172.18.0.1:50544 on port 1883.
+1708395256: New client connected from 172.18.0.1:50544 as user1 (p2, c0, k60, u'song').
+1708395256: Client user1 disconnected.
+1708395331: New connection from 172.18.0.1:53910 on port 1883.
+1708395331: New client connected from 172.18.0.1:53910 as user1 (p2, c0, k60, u'song').
+1708395376: Client user1 closed its connection.
+1708395386: New connection from 172.18.0.1:37376 on port 1883.
+1708395386: New client connected from 172.18.0.1:37376 as user1 (p2, c0, k60, u'song').
+1708395418: Client user1 closed its connection.
+1708395420: New connection from 172.18.0.1:41920 on port 1883.
+1708395420: New client connected from 172.18.0.1:41920 as user1 (p2, c0, k60, u'song').
+1708395453: Client user1 closed its connection.
+1708395487: New connection from 172.18.0.1:46074 on port 1883.
+1708395487: New client connected from 172.18.0.1:46074 as user1 (p2, c0, k60, u'song').
+1708395576: Client user1 closed its connection.
+1708395578: New connection from 172.18.0.1:59478 on port 1883.
+1708395578: New client connected from 172.18.0.1:59478 as user1 (p2, c0, k60, u'song').
+1708395578: Client user1 closed its connection.
+1708395593: New connection from 172.18.0.1:55376 on port 1883.
+1708395593: New client connected from 172.18.0.1:55376 as user1 (p2, c0, k60, u'song').
+1708395598: Client user1 disconnected.
+1708395702: New connection from 172.18.0.1:55862 on port 1883.
+1708395702: New client connected from 172.18.0.1:55862 as user1 (p2, c0, k60, u'song').
+1708395706: Client user1 disconnected.
+1708395740: New connection from 172.18.0.1:43288 on port 1883.
+1708395740: New client connected from 172.18.0.1:43288 as user1 (p2, c0, k60, u'song').
+1708395740: Client user1 disconnected.
+1708395746: New connection from 172.18.0.1:43290 on port 1883.
+1708395746: New client connected from 172.18.0.1:43290 as user1 (p2, c0, k60, u'song').
+1708395750: Client user1 disconnected.
+1708395762: New connection from 172.18.0.1:58732 on port 1883.
+1708395762: New client connected from 172.18.0.1:58732 as user1 (p2, c0, k60, u'song').
+1708395766: Client user1 disconnected.
+1708395798: New connection from 172.18.0.1:48424 on port 1883.
+1708395798: New client connected from 172.18.0.1:48424 as user1 (p2, c0, k60, u'song').
+1708395802: Client user1 disconnected.
+1708395928: New connection from 172.18.0.1:33730 on port 1883.
+1708395928: New client connected from 172.18.0.1:33730 as user1 (p2, c0, k60, u'song').
+1708395928: Client user1 disconnected.
+1708396065: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708396069: New connection from 172.18.0.1:58048 on port 1883.
+1708396069: New client connected from 172.18.0.1:58048 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708396485: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708396489: New connection from 172.18.0.1:41364 on port 1883.
+1708396489: New client connected from 172.18.0.1:41364 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708396905: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708396909: New connection from 172.18.0.1:45308 on port 1883.
+1708396909: New client connected from 172.18.0.1:45308 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708396956: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708397385: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708397389: New connection from 172.18.0.1:46600 on port 1883.
+1708397389: New client connected from 172.18.0.1:46600 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708397805: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708397809: New connection from 172.18.0.1:34022 on port 1883.
+1708397809: New client connected from 172.18.0.1:34022 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708397904: New connection from 172.18.0.1:43700 on port 1883.
+1708397904: New client connected from 172.18.0.1:43700 as user3 (p2, c0, k60, u'song').
+1708397906: Client user3 closed its connection.
+1708397982: New connection from 172.18.0.1:56880 on port 1883.
+1708397982: New client connected from 172.18.0.1:56880 as user3 (p2, c0, k60, u'song').
+1708397984: Client user3 closed its connection.
+1708398051: New connection from 172.18.0.1:51456 on port 1883.
+1708398051: New client connected from 172.18.0.1:51456 as user3 (p2, c0, k60, u'song').
+1708398053: Client user3 closed its connection.
+1708398091: New connection from 172.18.0.1:48066 on port 1883.
+1708398091: New client connected from 172.18.0.1:48066 as user3 (p2, c0, k60, u'song').
+1708398093: Client user3 disconnected.
+1708398182: New connection from 172.18.0.1:58086 on port 1883.
+1708398182: New client connected from 172.18.0.1:58086 as user3 (p2, c0, k60, u'song').
+1708398184: Client user3 disconnected.
+1708398195: New connection from 172.18.0.1:54464 on port 1883.
+1708398195: New client connected from 172.18.0.1:54464 as user3 (p2, c0, k60, u'song').
+1708398197: Client user3 closed its connection.
+1708398217: New connection from 172.18.0.1:57082 on port 1883.
+1708398217: New client connected from 172.18.0.1:57082 as user3 (p2, c0, k60, u'song').
+1708398219: Client user3 disconnected.
+1708398225: New connection from 172.18.0.1:57090 on port 1883.
+1708398225: New client connected from 172.18.0.1:57090 as user3 (p2, c0, k60, u'song').
+1708398227: Client user3 disconnected.
+1708398362: New connection from 172.18.0.1:41698 on port 1883.
+1708398362: New client connected from 172.18.0.1:41698 as user3 (p2, c0, k60, u'song').
+1708398383: Client user3 disconnected.
+1708398385: New connection from 172.18.0.1:54850 on port 1883.
+1708398385: New client connected from 172.18.0.1:54850 as user3 (p2, c0, k60, u'song').
+1708398385: Client user3 disconnected.
+1708398438: New connection from 172.18.0.1:53164 on port 1883.
+1708398438: New client connected from 172.18.0.1:53164 as user3 (p2, c0, k60, u'song').
+1708398438: Client user3 disconnected.
+1708398649: New connection from 172.18.0.1:35404 on port 1883.
+1708398649: New client connected from 172.18.0.1:35404 as user3 (p2, c0, k60, u'song').
+1708398741: Client user3 has exceeded timeout, disconnecting.
+1708398757: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708398761: New connection from 172.18.0.1:44130 on port 1883.
+1708398761: New client connected from 172.18.0.1:44130 as user3 (p2, c0, k60, u'song').
+1708398765: Client user3 disconnected.
+1708398784: New connection from 172.18.0.1:44198 on port 1883.
+1708398784: New client connected from 172.18.0.1:44198 as user3 (p2, c0, k60, u'song').
+1708398787: Client user3 disconnected.
+1708398797: New connection from 172.18.0.1:41290 on port 1883.
+1708398797: New client connected from 172.18.0.1:41290 as user3 (p2, c0, k60, u'song').
+1708398799: Client user3 closed its connection.
+1708398866: Client mqttx_e83a36e0 closed its connection.
+1708399945: mosquitto version 2.0.18 starting
+1708399945: Config loaded from /mosquitto/config/mosquitto.conf.
+1708399945: Opening ipv4 listen socket on port 1883.
+1708399945: Opening ipv6 listen socket on port 1883.
+1708399945: Opening websockets listen socket on port 9001.
+1708399945: mosquitto version 2.0.18 running
+1708399978: New connection from 172.18.0.1:49888 on port 1883.
+1708399978: New client connected from 172.18.0.1:49888 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708399993: New connection from 172.18.0.1:39276 on port 1883.
+1708399993: New client connected from 172.18.0.1:39276 as user3 (p2, c0, k60, u'song').
+1708399999: Client user3 closed its connection.
+1708401193: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708401198: New connection from 172.18.0.1:44786 on port 1883.
+1708401198: New client connected from 172.18.0.1:44786 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708404730: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708404735: New connection from 172.18.0.1:49118 on port 1883.
+1708404735: New client connected from 172.18.0.1:49118 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708404791: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708404806: New connection from 172.18.0.1:58522 on port 1883.
+1708404806: New client connected from 172.18.0.1:58522 as usera5746e69-83fd-4510-a855-8b45bf3fcbd4 (p2, c0, k60, u'song').
+1708404830: New connection from 172.18.0.1:43860 on port 1883.
+1708404830: New client connected from 172.18.0.1:43860 as userb69b61d9-55e7-4430-84d9-fb85c0eeede6 (p2, c0, k60, u'song').
+1708405009: Client usera5746e69-83fd-4510-a855-8b45bf3fcbd4 closed its connection.
+1708405009: Client userb69b61d9-55e7-4430-84d9-fb85c0eeede6 closed its connection.
+1708405117: New connection from 172.18.0.1:35758 on port 1883.
+1708405117: New client connected from 172.18.0.1:35758 as userd2648ff0-9a1b-4671-bdc5-b045897a0838 (p2, c0, k60, u'song').
+1708405156: Client userd2648ff0-9a1b-4671-bdc5-b045897a0838 closed its connection.
+1708405201: New connection from 172.18.0.1:45478 on port 1883.
+1708405201: New client connected from 172.18.0.1:45478 as usera51fe018-75cb-4f13-ab24-b48c0a98137d (p2, c0, k60, u'song').
+1708405210: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708405215: New connection from 172.18.0.1:46548 on port 1883.
+1708405215: New client connected from 172.18.0.1:46548 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708405236: Client usera51fe018-75cb-4f13-ab24-b48c0a98137d closed its connection.
+1708405262: New connection from 172.18.0.1:41850 on port 1883.
+1708405262: New client connected from 172.18.0.1:41850 as user0cf37f08-e33c-44af-96d2-11bdcda1a8b4 (p2, c0, k60, u'song').
+1708405284: Client user0cf37f08-e33c-44af-96d2-11bdcda1a8b4 closed its connection.
+1708405551: New connection from 172.18.0.1:33966 on port 1883.
+1708405551: New client connected from 172.18.0.1:33966 as user20959fb7-6d72-4c09-b576-a8e43f02e88d (p2, c0, k60, u'song').
+1708405624: Client user20959fb7-6d72-4c09-b576-a8e43f02e88d closed its connection.
+1708405630: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708405635: New connection from 172.18.0.1:53054 on port 1883.
+1708405635: New client connected from 172.18.0.1:53054 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708405788: New connection from 172.18.0.1:57580 on port 1883.
+1708405788: New client connected from 172.18.0.1:57580 as userb2a4b12f-9e63-428b-9111-c8102ed99420 (p2, c0, k60, u'song').
+1708405818: Client userb2a4b12f-9e63-428b-9111-c8102ed99420 closed its connection.
+1708405884: New connection from 172.18.0.1:44128 on port 1883.
+1708405884: New client connected from 172.18.0.1:44128 as user1d5d1b6e-9dfb-400d-bba3-65c131609961 (p2, c0, k60, u'song').
+1708406050: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708406055: New connection from 172.18.0.1:50108 on port 1883.
+1708406055: New client connected from 172.18.0.1:50108 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708406470: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708406475: New connection from 172.18.0.1:34878 on port 1883.
+1708406475: New client connected from 172.18.0.1:34878 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708406592: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708406775: Client user1d5d1b6e-9dfb-400d-bba3-65c131609961 closed its connection.
+1708406808: New connection from 172.18.0.1:49878 on port 1883.
+1708406808: New client connected from 172.18.0.1:49878 as usere87d6c2c-9c65-40a0-a1c3-19a6c2bd5c87 (p2, c0, k60, u'song').
+1708406950: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708406955: New connection from 172.18.0.1:40094 on port 1883.
+1708406955: New client connected from 172.18.0.1:40094 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708407259: Client usere87d6c2c-9c65-40a0-a1c3-19a6c2bd5c87 closed its connection.
+1708407290: New connection from 172.18.0.1:48800 on port 1883.
+1708407290: New client connected from 172.18.0.1:48800 as user8077cc78-0185-4e92-9072-647e535da7b1 (p2, c0, k60, u'song').
+1708407346: Client user8077cc78-0185-4e92-9072-647e535da7b1 closed its connection.
+1708407375: New connection from 172.18.0.1:55014 on port 1883.
+1708407375: New client connected from 172.18.0.1:55014 as user3fb8b4d0-bbae-485f-82bc-6c28af67d23d (p2, c0, k60, u'song').
+1708407430: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708407435: New connection from 172.18.0.1:54064 on port 1883.
+1708407435: New client connected from 172.18.0.1:54064 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708407544: Client user3fb8b4d0-bbae-485f-82bc-6c28af67d23d closed its connection.
+1708407577: New connection from 172.18.0.1:54184 on port 1883.
+1708407577: New client connected from 172.18.0.1:54184 as user67785b47-8dae-449a-b21f-c30340a4b6e2 (p2, c0, k60, u'song').
+1708407617: Client user67785b47-8dae-449a-b21f-c30340a4b6e2 closed its connection.
+1708407653: New connection from 172.18.0.1:41890 on port 1883.
+1708407653: New client connected from 172.18.0.1:41890 as user9cc362e3-54b3-4a19-95fd-67427c77b545 (p2, c0, k60, u'song').
+1708407678: Client user9cc362e3-54b3-4a19-95fd-67427c77b545 closed its connection.
+1708407705: New connection from 172.18.0.1:50408 on port 1883.
+1708407705: New client connected from 172.18.0.1:50408 as user96ca971c-31fd-468f-86e3-9d3c337091f3 (p2, c0, k60, u'song').
+1708407850: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708407855: New connection from 172.18.0.1:58528 on port 1883.
+1708407855: New client connected from 172.18.0.1:58528 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708407912: Client user96ca971c-31fd-468f-86e3-9d3c337091f3 closed its connection.
+1708407937: New connection from 172.18.0.1:42640 on port 1883.
+1708407937: New client connected from 172.18.0.1:42640 as user74d73b7f-387a-4771-b943-9d7417cca1ab (p2, c0, k60, u'song').
+1708408082: Client user74d73b7f-387a-4771-b943-9d7417cca1ab closed its connection.
+1708408110: New connection from 172.18.0.1:35124 on port 1883.
+1708408110: New client connected from 172.18.0.1:35124 as user4becc314-87a2-4e74-94ef-47de50217d43 (p2, c0, k60, u'song').
+1708408153: Client user4becc314-87a2-4e74-94ef-47de50217d43 closed its connection.
+1708408188: New connection from 172.18.0.1:34626 on port 1883.
+1708408188: New client connected from 172.18.0.1:34626 as userdf24c86f-0275-4725-b45e-d547201b1d88 (p2, c0, k60, u'song').
+1708408270: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708408275: New connection from 172.18.0.1:51932 on port 1883.
+1708408275: New client connected from 172.18.0.1:51932 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708408322: Client userdf24c86f-0275-4725-b45e-d547201b1d88 closed its connection.
+1708408393: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708408413: New connection from 172.18.0.1:43356 on port 1883.
+1708408413: New client connected from 172.18.0.1:43356 as usera35e9dfd-f35e-4bda-8831-01aed4ba1f7a (p2, c0, k60, u'song').
+1708408458: Client usera35e9dfd-f35e-4bda-8831-01aed4ba1f7a closed its connection.
+1708408492: New connection from 172.18.0.1:55124 on port 1883.
+1708408492: New client connected from 172.18.0.1:55124 as user46b1e625-2654-4312-890e-2f2d0a707225 (p2, c0, k60, u'song').
+1708408541: Client user46b1e625-2654-4312-890e-2f2d0a707225 closed its connection.
+1708408573: New connection from 172.18.0.1:47738 on port 1883.
+1708408573: New client connected from 172.18.0.1:47738 as userce4ecfb8-91e9-4af7-a1c0-ff1c44789793 (p2, c0, k60, u'song').
+1708408586: New connection from 172.18.0.1:34674 on port 1883.
+1708408586: New client connected from 172.18.0.1:34674 as userd2290533-1ddc-4d09-9deb-d5fc42889d7b (p2, c0, k60, u'song').
+1708408625: Client userd2290533-1ddc-4d09-9deb-d5fc42889d7b closed its connection.
+1708408625: Client userce4ecfb8-91e9-4af7-a1c0-ff1c44789793 closed its connection.
+1708408652: New connection from 172.18.0.1:50424 on port 1883.
+1708408652: New client connected from 172.18.0.1:50424 as userbfd04fed-6674-4207-ad4b-6a9d149fea97 (p2, c0, k60, u'song').
+1708408673: Client userbfd04fed-6674-4207-ad4b-6a9d149fea97 closed its connection.
+1708408690: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708408695: New connection from 172.18.0.1:55202 on port 1883.
+1708408695: New client connected from 172.18.0.1:55202 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708408998: New connection from 172.18.0.1:58168 on port 1883.
+1708408998: New client connected from 172.18.0.1:58168 as user8d119d9d-67d4-42ba-aa36-9339e364175c (p2, c0, k60, u'song').
+1708409055: Client user8d119d9d-67d4-42ba-aa36-9339e364175c closed its connection.
+1708409230: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708409235: New connection from 172.18.0.1:35302 on port 1883.
+1708409235: New client connected from 172.18.0.1:35302 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708409242: New connection from 172.18.0.1:40174 on port 1883.
+1708409242: New client connected from 172.18.0.1:40174 as user27f25ffb-c57c-4033-812b-ec132adc8016 (p2, c0, k60, u'song').
+1708409270: New connection from 172.18.0.1:57610 on port 1883.
+1708409270: New client connected from 172.18.0.1:57610 as userd6ad4bb8-6ae1-4902-8000-42f40ba4c14b (p2, c0, k60, u'song').
+1708409287: New connection from 172.18.0.1:49980 on port 1883.
+1708409287: New client connected from 172.18.0.1:49980 as user86b3177b-d0e9-4f5a-95f2-740bf440b306 (p2, c0, k60, u'song').
+1708409299: Client user27f25ffb-c57c-4033-812b-ec132adc8016 closed its connection.
+1708409299: Client userd6ad4bb8-6ae1-4902-8000-42f40ba4c14b closed its connection.
+1708409299: Client user86b3177b-d0e9-4f5a-95f2-740bf440b306 closed its connection.
+1708409326: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708409412: New connection from 172.18.0.1:37000 on port 1883.
+1708409412: New client connected from 172.18.0.1:37000 as userd6e7678a-4238-4580-9438-23d3dbe86ce2 (p2, c0, k60, u'song').
+1708409469: Client userd6e7678a-4238-4580-9438-23d3dbe86ce2 closed its connection.
+1708409531: New connection from 172.18.0.1:38326 on port 1883.
+1708409531: New client connected from 172.18.0.1:38326 as usere7a9504e-a910-4d48-a171-39d91550bbd6 (p2, c0, k60, u'song').
+1708409593: Client usere7a9504e-a910-4d48-a171-39d91550bbd6 closed its connection.
+1708409667: New connection from 172.18.0.1:37494 on port 1883.
+1708409667: New client connected from 172.18.0.1:37494 as user65d714c7-bc40-4565-939a-5b9b846d5116 (p2, c0, k60, u'song').
+1708409700: Client user65d714c7-bc40-4565-939a-5b9b846d5116 closed its connection.
+1708409795: New connection from 172.18.0.1:57662 on port 1883.
+1708409795: New client connected from 172.18.0.1:57662 as userfeee7c1a-86ee-410c-8f4d-409f525d817b (p2, c0, k60, u'song').
+1708410194: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708411279: Client userfeee7c1a-86ee-410c-8f4d-409f525d817b closed its connection.
+1708411822: New connection from 172.18.0.1:39736 on port 1883.
+1708411822: New client connected from 172.18.0.1:39736 as user85b0ede1-32a2-472e-9bc4-963c12f02de2 (p2, c0, k60, u'song').
+1708411879: Client user85b0ede1-32a2-472e-9bc4-963c12f02de2 closed its connection.
+1708411910: New connection from 172.18.0.1:51752 on port 1883.
+1708411910: New client connected from 172.18.0.1:51752 as usere0159368-edfb-4400-96c7-99b3653aa59b (p2, c0, k60, u'song').
+1708411995: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708412156: Client usere0159368-edfb-4400-96c7-99b3653aa59b closed its connection.
+1708412397: New connection from 172.18.0.1:47412 on port 1883.
+1708412397: New client connected from 172.18.0.1:47412 as user31dab2b4-9664-419a-8dff-403a9cdeaf95 (p2, c0, k60, u'song').
+1708412420: Client user31dab2b4-9664-419a-8dff-403a9cdeaf95 closed its connection.
+1708412568: New connection from 172.18.0.1:56064 on port 1883.
+1708412568: New client connected from 172.18.0.1:56064 as user56896813-c178-46a1-b428-d8a7a223dff2 (p2, c0, k60, u'song').
+1708412582: New connection from 172.18.0.1:58966 on port 1883.
+1708412582: New client connected from 172.18.0.1:58966 as user5244f656-7ac7-4ee1-942a-be235c620644 (p2, c0, k60, u'song').
+1708412691: Client user5244f656-7ac7-4ee1-942a-be235c620644 closed its connection.
+1708412691: Client user56896813-c178-46a1-b428-d8a7a223dff2 closed its connection.
+1708412718: New connection from 172.18.0.1:51480 on port 1883.
+1708412718: New client connected from 172.18.0.1:51480 as useraa40a9cd-7105-4440-af63-10c088b0f5e8 (p2, c0, k60, u'song').
+1708412737: Client useraa40a9cd-7105-4440-af63-10c088b0f5e8 closed its connection.
+1708412765: New connection from 172.18.0.1:52946 on port 1883.
+1708412765: New client connected from 172.18.0.1:52946 as userfb7015c6-3b42-44ee-a336-899b4b73ccfc (p2, c0, k60, u'song').
+1708412787: Client userfb7015c6-3b42-44ee-a336-899b4b73ccfc closed its connection.
+1708412853: New connection from 172.18.0.1:56288 on port 1883.
+1708412853: New client connected from 172.18.0.1:56288 as userda00bfd6-1a8e-460d-9b84-abae3793c161 (p2, c0, k60, u'song').
+1708412883: Client userda00bfd6-1a8e-460d-9b84-abae3793c161 closed its connection.
+1708412927: New connection from 172.18.0.1:43844 on port 1883.
+1708412927: New client connected from 172.18.0.1:43844 as user8890d254-5b12-4550-bfd5-f64e5bfa6108 (p2, c0, k60, u'song').
+1708412970: Client user8890d254-5b12-4550-bfd5-f64e5bfa6108 closed its connection.
+1708412996: New connection from 172.18.0.1:46010 on port 1883.
+1708412996: New client connected from 172.18.0.1:46010 as userbfc1396b-e818-400b-92c3-b11a1b49d982 (p2, c0, k60, u'song').
+1708413041: Client userbfc1396b-e818-400b-92c3-b11a1b49d982 closed its connection.
+1708413079: New connection from 172.18.0.1:32886 on port 1883.
+1708413079: New client connected from 172.18.0.1:32886 as userebd56526-a14c-4813-9200-0b55dd87aacf (p2, c0, k60, u'song').
+1708413168: Client userebd56526-a14c-4813-9200-0b55dd87aacf closed its connection.
+1708413194: New connection from 172.18.0.1:38348 on port 1883.
+1708413194: New client connected from 172.18.0.1:38348 as user9398d0f7-b557-4bd6-b3f5-73bfdd5ab8bb (p2, c0, k60, u'song').
+1708413241: New connection from 172.18.0.1:58430 on port 1883.
+1708413241: New client connected from 172.18.0.1:58430 as user6ea40436-1c89-4c5b-a936-3120e6049886 (p2, c0, k60, u'song').
+1708413321: Client user6ea40436-1c89-4c5b-a936-3120e6049886 closed its connection.
+1708413321: Client user9398d0f7-b557-4bd6-b3f5-73bfdd5ab8bb closed its connection.
+1708413370: New connection from 172.18.0.1:49304 on port 1883.
+1708413370: New client connected from 172.18.0.1:49304 as userdaefd2f7-3ee1-46bc-aea5-3f3be6d19c0e (p2, c0, k60, u'song').
+1708413431: Client userdaefd2f7-3ee1-46bc-aea5-3f3be6d19c0e closed its connection.
+1708413480: New connection from 172.18.0.1:60224 on port 1883.
+1708413480: New client connected from 172.18.0.1:60224 as user89d478e9-d6fb-40a4-b733-06572855aebf (p2, c0, k60, u'song').
+1708413564: Client user89d478e9-d6fb-40a4-b733-06572855aebf closed its connection.
+1708413593: New connection from 172.18.0.1:38894 on port 1883.
+1708413593: New client connected from 172.18.0.1:38894 as user3bbba6d2-86d3-46ba-8e79-2f1305851517 (p2, c0, k60, u'song').
+1708413650: Client user3bbba6d2-86d3-46ba-8e79-2f1305851517 closed its connection.
+1708413676: New connection from 172.18.0.1:57716 on port 1883.
+1708413676: New client connected from 172.18.0.1:57716 as user2acd21f9-6466-4c16-815c-fc55ac3a7e92 (p2, c0, k60, u'song').
+1708413748: Client user2acd21f9-6466-4c16-815c-fc55ac3a7e92 closed its connection.
+1708413778: New connection from 172.18.0.1:36876 on port 1883.
+1708413778: New client connected from 172.18.0.1:36876 as user621cfdf5-9fd5-444a-812a-a028f5290e0b (p2, c0, k60, u'song').
+1708413796: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708413858: Client user621cfdf5-9fd5-444a-812a-a028f5290e0b closed its connection.
+1708413888: New connection from 172.18.0.1:38710 on port 1883.
+1708413888: New client connected from 172.18.0.1:38710 as userf0240d01-ef28-4570-9313-1c24ad2f1b4d (p2, c0, k60, u'song').
+1708414109: Client userf0240d01-ef28-4570-9313-1c24ad2f1b4d closed its connection.
+1708414136: New connection from 172.18.0.1:56528 on port 1883.
+1708414136: New client connected from 172.18.0.1:56528 as usera1a47410-fa95-4623-b44c-d62419e6fdd5 (p2, c0, k60, u'song').
+1708414154: Client usera1a47410-fa95-4623-b44c-d62419e6fdd5 closed its connection.
+1708414178: New connection from 172.18.0.1:49092 on port 1883.
+1708414178: New client connected from 172.18.0.1:49092 as user84490552-e654-456f-ae7d-5117543a8f13 (p2, c0, k60, u'song').
+1708414224: Client user84490552-e654-456f-ae7d-5117543a8f13 closed its connection.
+1708414253: New connection from 172.18.0.1:55432 on port 1883.
+1708414253: New client connected from 172.18.0.1:55432 as user1864e969-2c88-4133-a7d6-fb8046311f7d (p2, c0, k60, u'song').
+1708414512: Client user1864e969-2c88-4133-a7d6-fb8046311f7d closed its connection.
+1708456414: mosquitto version 2.0.18 starting
+1708456414: Config loaded from /mosquitto/config/mosquitto.conf.
+1708456414: Opening ipv4 listen socket on port 1883.
+1708456414: Opening ipv6 listen socket on port 1883.
+1708456414: Opening websockets listen socket on port 9001.
+1708456414: mosquitto version 2.0.18 running
+1708456419: New connection from 172.18.0.1:35734 on port 1883.
+1708456419: New client connected from 172.18.0.1:35734 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708456437: New connection from 172.18.0.1:57814 on port 1883.
+1708456437: New client connected from 172.18.0.1:57814 as user9ff33c7e-777e-421b-a481-ac3db09d7aa4 (p2, c0, k60, u'song').
+1708456479: Client user9ff33c7e-777e-421b-a481-ac3db09d7aa4 closed its connection.
+1708456892: New connection from 172.18.0.1:46178 on port 1883.
+1708456892: New client connected from 172.18.0.1:46178 as user0370cd76-c0a3-42f5-8587-3f18d43d07fd (p2, c0, k60, u'song').
+1708456914: Client mqttx_e83a36e0 closed its connection.
+1708456920: Client user0370cd76-c0a3-42f5-8587-3f18d43d07fd closed its connection.
+1708457110: mosquitto version 2.0.18 starting
+1708457110: Config loaded from /mosquitto/config/mosquitto.conf.
+1708457110: Opening ipv4 listen socket on port 1883.
+1708457110: Opening ipv6 listen socket on port 1883.
+1708457110: Opening websockets listen socket on port 9001.
+1708457110: mosquitto version 2.0.18 running
+1708473626: mosquitto version 2.0.18 starting
+1708473626: Config loaded from /mosquitto/config/mosquitto.conf.
+1708473626: Opening ipv4 listen socket on port 1883.
+1708473626: Opening ipv6 listen socket on port 1883.
+1708473626: Opening websockets listen socket on port 9001.
+1708473626: mosquitto version 2.0.18 running
+1708473629: New connection from 172.18.0.1:42618 on port 1883.
+1708473629: New client connected from 172.18.0.1:42618 as mqttx_e83a36e0 (p5, c1, k60, u'song').
+1708473700: New connection from 172.18.0.1:36992 on port 1883.
+1708473700: New client connected from 172.18.0.1:36992 as usera14b4a73-33bc-4b50-9e66-e21e02dcacda (p2, c0, k60, u'song').
+1708473706: New connection from 172.18.0.1:37008 on port 1883.
+1708473706: New client connected from 172.18.0.1:37008 as user07125f04-6336-4ac6-bfc7-7fa9c1d13aca (p2, c0, k60, u'song').
+1708473758: Client user07125f04-6336-4ac6-bfc7-7fa9c1d13aca closed its connection.
+1708473758: Client usera14b4a73-33bc-4b50-9e66-e21e02dcacda closed its connection.
+1708474106: Client mqttx_e83a36e0 has exceeded timeout, disconnecting.
+1708474110: New connection from 172.18.0.1:49664 on port 1883.
+1708474110: New client connected from 172.18.0.1:49664 as mqttx_e83a36e0 (p5, c1, k60, u'song').
