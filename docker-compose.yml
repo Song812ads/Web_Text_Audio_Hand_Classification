@@ -2,17 +2,54 @@ version: '3.9'
 
 services:
   mosquitto:
-    container_name: mqtt
+    container_name: mosquitto
     image: eclipse-mosquitto
     restart: always
     volumes:
-      - ./config:/mosquitto/config
-      - ./data:/mosquitto/data
-      - ./log:/mosquitto/log
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
     ports:
-      - 1883:1883
+      - 6886:1883
       - 9001:9001
+    networks:
+      - my_network
+
+  frontend:
+    depends_on:
+      - backend
+    container_name: frontend
+    build:
+      context: ./my-app
+      dockerfile: Dockerfile
+    ports:
+      - 3500:3000
+    networks:
+      - my_network
+
+
+  backend:
+    container_name: backend
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/server/http
+    ports:
+      - "8000:8000"
+    restart: always
+    networks:
+      - my_network
+    links:
+      - mosquitto
+
 volumes:
   config:
   data:
   log:
+  postgres-data:
+    driver: local
+
+networks:
+  my_network:
+    driver: host

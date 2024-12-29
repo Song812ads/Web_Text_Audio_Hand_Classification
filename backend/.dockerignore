@@ -1,0 +1,49 @@
+.venv
+static/audio_model_pre_w2v/
+static/text/model_llama/
+
+# Ignore Python bytecode files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Ignore other temporary files
+*.bak
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore .git directory and other version control files
+.git/
+.gitignore
+
+# Ignore the Dockerfile itself (optional, if you don’t need it in the image)
+Dockerfile
+
+# Ignore other IDE-related files
+.vscode/
+.idea/
+
+# Ignore package manager files (if you use poetry or other tools)
+*.egg-info/
+dist/
+build/
+
+# Ignore test directories and files
+tests/
+*.test
+*.spec
+
+# Ignore config files for local environment (e.g., .env, local config)
+.env
+*.local

@@ -1,0 +1,10 @@
+flask
+flask-cors
+pyjwt
+torch
+librosa
+tensorflow
+transformers
+numpy
+paho-mqtt
+unidecode
