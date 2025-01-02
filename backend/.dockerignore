@@ -1,7 +1,10 @@
 .venv
 static/audio_model_pre_w2v/
 static/text/model_llama/
-
+static/text/tf_model
+static/text/tf_model_pretrained
+static/audio_model_pre_w2v
+static/audio_model_spectrogram
 # Ignore Python bytecode files
 __pycache__
 *.pyc

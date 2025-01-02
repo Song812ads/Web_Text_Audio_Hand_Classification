@@ -11,12 +11,15 @@ import json
 from functools import wraps
 from unidecode import unidecode
 import re
-
+import base64
+from flask_socketio import SocketIO, emit
+import io
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'nhungngay0em'
 cors = CORS(app, origins='*', X_Content_Type_Options= 'nosniff')
 client = MQTTClient('user_web')
 path = 'D:/contiki/doan/web_AI/hand-gesture/model'
+socketio = SocketIO(app, cors_allowed_origins="*")
 COUNT = 15
 
 label_predict = [
@@ -134,6 +137,33 @@ def token_required(f):
     return decorated
 
 
+@socketio.on('connect')
+def handle_connect():
+    print('Client connected')
+
+@socketio.on('disconnect')
+def handle_disconnect():
+    print('Client disconnected')
+
+@socketio.on('audio_data')
+def handle_audio_data(data):
+    try:
+        audio_bytes = base64.b64decode(data)
+        audio_file = io.BytesIO(audio_bytes)
+        # audio, samplerate = sf.read(audio_file)
+        # audio = np.array(audio).astype(np.float32)
+        # ... Your audio processing logic here ...
+        result_class = audio_model_3(audio_file) 
+        if result_class==11:
+            result_class = 27
+        client.pub('/t1',unidecode(label_predict[int(result_class)]))   
+        emit('prediction_result', json.dumps({"result_class": label_predict[int(result_class)]}))
+        # result_class = "Audio Processed Successfully"
+        # emit('prediction_result', json.dumps({"result_class": result_class}))
+    except Exception as e:
+        print(f"Error processing audio: {e}")
+        emit('prediction_error', json.dumps({"error": str(e)}))
+
 def wav_to_logmelspectrogram(file, sample_rate=16000, hop_length=1024, n_mels=64 ):
 
     # # Convert audio data to numpy array
@@ -206,7 +236,7 @@ def wav_to_logmelspectrogram(file, sample_rate=16000, hop_length=1024, n_mels=64
     return normalize_mfccs, sr
 
 def preprocess_single_audio(file_path):
-    y, sr = librosa.load(file_path, sr=16000, mono=True)
+    y, sr = librosa.load(file_path, sr=16000, mono=True,duration=10)
     duration = librosa.get_duration(y=y, sr=sr)
 
     if len(y) < 10 * 16000:
@@ -449,4 +479,5 @@ if __name__ == '__main__':
     local_files_only=True)
     audio_model.eval()
 
-    app.run(host='0.0.0.0', port=8000)
+    # from gunicorn.main import run
+    socketio.run(app, host='0.0.0.0', port=8000)

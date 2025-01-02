@@ -8,3 +8,4 @@ transformers
 numpy
 paho-mqtt
 unidecode
+flask_socketio
