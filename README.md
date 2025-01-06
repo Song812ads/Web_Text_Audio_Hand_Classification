@@ -21,35 +21,34 @@ This model is based on the survey between Transformer From Scratch, BERT, LLama,
 This model is trained on Vietnamese Language, including 28 classes.
 
 
-
-0 – ‘Tắt đèn phòng khách’ 
-1 – ‘Mở đèn phòng khách’ 
-2 – ‘Tắt đèn phòng ngủ’ 
-3 – ‘Mở đèn phỏng ngủ’ 
-4 – ‘Tắt đèn nhà bếp’
-5 – ‘Mở đèn nhà bếp’ 
-6 – ‘Đo nhiệt độ phòng’ 
-7 – ‘Điều chỉnh quạt quay chậm’
- 8 – ‘Điều chỉnh quạt quay vừa’ 
-9 – ‘Điều chỉnh quạt chạy nhanh’ 
-10 – ‘Tắt quạt’ 
-11 – ‘Báo thức, thông báo' 
-12 - Mở cửa giúp tôi 
-13 - Đóng cửa 
-14 - Điều chỉnh máy giặt chế độ thông thường 
-15 - Điều chỉnh giặt chế độ sợi bông 
-16 - Điều chỉnh chế độ giặt chăn mền 
-17 - Tắt máy giặt 
-18 - Mở wifi 
-19 - Tắt wifi 
-20 - Mở máy nước nóng trong nhà tắm
-21 - Tắt máy nước nóng trong nhà tắm 
-22 - Tắt chế độ tưới cây 
-23 - Bật chế độ tươi cây tự động 
-24 - tăng âm lượng loa phòng khách 
-25 - Giảm âm lượng loa phòng khách 
-26 - Tắt loa phòng khách 
-27 – Các Th khác
+0 – ‘Tắt đèn phòng khách’  
+1 – ‘Mở đèn phòng khách’  
+2 – ‘Tắt đèn phòng ngủ’  
+3 – ‘Mở đèn phòng ngủ’  
+4 – ‘Tắt đèn nhà bếp’  
+5 – ‘Mở đèn nhà bếp’  
+6 – ‘Đo nhiệt độ phòng’  
+7 – ‘Điều chỉnh quạt quay chậm’  
+8 – ‘Điều chỉnh quạt quay vừa’  
+9 – ‘Điều chỉnh quạt chạy nhanh’  
+10 – ‘Tắt quạt’  
+11 – ‘Báo thức, thông báo’  
+12 – ‘Mở cửa giúp tôi’  
+13 – ‘Đóng cửa’  
+14 – ‘Điều chỉnh máy giặt chế độ thông thường’  
+15 – ‘Điều chỉnh giặt chế độ sợi bông’  
+16 – ‘Điều chỉnh chế độ giặt chăn mền’  
+17 – ‘Tắt máy giặt’  
+18 – ‘Mở wifi’  
+19 – ‘Tắt wifi’  
+20 – ‘Mở máy nước nóng trong nhà tắm’  
+21 – ‘Tắt máy nước nóng trong nhà tắm’  
+22 – ‘Tắt chế độ tưới cây’  
+23 – ‘Bật chế độ tưới cây tự động’  
+24 – ‘Tăng âm lượng loa phòng khách’  
+25 – ‘Giảm âm lượng loa phòng khách’  
+26 – ‘Tắt loa phòng khách’  
+27 – ‘Các Th khác’  
 
 
 
