@@ -20,7 +20,9 @@ The Fps is caculated basically based on performaance.now() in js, I use it to ca
 This model is based on the survey between Transformer From Scratch, BERT, LLama, MistralAI, GPT. The result show that BERT is not the best model in classification task if I compare it to LLama, but it's a more lightweight model to deploy on app.
 This model is trained on Vietnamese Language, including 28 classes.
 
- 0 – ‘Tắt đèn phòng khách’ 
+
+
+0 – ‘Tắt đèn phòng khách’ 
 1 – ‘Mở đèn phòng khách’ 
 2 – ‘Tắt đèn phòng ngủ’ 
 3 – ‘Mở đèn phỏng ngủ’ 
@@ -48,6 +50,8 @@ This model is trained on Vietnamese Language, including 28 classes.
 25 - Giảm âm lượng loa phòng khách 
 26 - Tắt loa phòng khách 
 27 – Các Th khác
+
+
 
 You can try it on the Voice Text Demo section, in side the Text option.
 
