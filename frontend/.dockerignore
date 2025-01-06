@@ -1,0 +1,47 @@
+.git/
+src/static/text/model_llama/
+node_modules/
+grpc/
+key/
+model/
+
+
+# Build output folder
+build/
+
+# Logs
+*.log
+
+# Dependency directories (for package managers other than npm)
+*.npm/
+*.yarn/
+*.pnpm/
+
+# Ignore the .git directory and other version control files
+.git/
+.gitignore
+
+# Ignore Dockerfile itself (optional, if you don't need it in the image)
+Dockerfile
+
+# Ignore IDE/editor configuration files
+.vscode/
+.idea/
+
+# Ignore local environment files
+.env
+*.local
+
+# Ignore test-related files
+coverage/
+*.test.js
+*.spec.js
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore other temporary files and caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

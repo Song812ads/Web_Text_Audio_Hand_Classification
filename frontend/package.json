@@ -1,0 +1,167 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@heroicons/react": "^2.1.1",
+    "@mediapipe/camera_utils": "^0.3.1675466862",
+    "@mediapipe/drawing_utils": "^0.3.1675466124",
+    "@mediapipe/hands": "^0.4.1675469240",
+    "@mediapipe/tasks-vision": "^0.10.9",
+    "@mui/icons-material": "^6.1.5",
+    "@mui/material": "^6.1.5",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
+    "@tensorflow-models/tasks": "^0.0.1-alpha.8",
+    "@tensorflow/tfjs": "^4.17.0",
+    "@tensorflow/tfjs-backend-cpu": "^4.17.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.17.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@xenova/transformers": "^2.17.2",
+    "autoprefixer": "^10.4.17",
+    "axios": "^1.6.7",
+    "bfj": "^7.0.2",
+    "bootstrap": "^5.3.3",
+    "browserslist": "^4.18.1",
+    "camelcase": "^6.2.1",
+    "case-sensitive-paths-webpack-plugin": "^2.4.0",
+    "css-loader": "^6.5.1",
+    "css-minimizer-webpack-plugin": "^3.2.0",
+    "dayjs": "^1.11.10",
+    "dotenv": "^10.0.0",
+    "dotenv-expand": "^5.1.0",
+    "file-loader": "^6.2.0",
+    "flowbite-react": "^0.7.2",
+    "fs-extra": "^10.0.0",
+    "google-protobuf": "^3.21.4",
+    "grpc-web": "^1.5.0",
+    "html-webpack-plugin": "^5.5.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.4.3",
+    "jest-resolve": "^27.4.2",
+    "jest-watch-typeahead": "^1.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "jwt-encode": "^1.0.1",
+    "mini-css-extract-plugin": "^2.4.5",
+    "my-app": "file:",
+    "next-images": "^1.8.5",
+    "path-browserify": "^1.0.1",
+    "postcss": "^8.4.4",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-loader": "^6.2.1",
+    "postcss-normalize": "^10.0.1",
+    "postcss-preset-env": "^7.0.1",
+    "prompts": "^2.4.2",
+    "react": "^18.2.0",
+    "react-app-polyfill": "^3.0.0",
+    "react-bootstrap": "^2.10.1",
+    "react-dev-utils": "^12.0.1",
+    "react-dom": "^18.2.0",
+    "react-mic": "^12.4.6",
+    "react-pro-sidebar": "^1.1.0",
+    "react-refresh": "^0.11.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "^5.0.1",
+    "react-webcam": "^7.2.0",
+    "resolve": "^1.20.0",
+    "resolve-url-loader": "^4.0.0",
+    "sass-loader": "^12.3.0",
+    "semver": "^7.3.5",
+    "socket.io-client": "^4.8.1",
+    "source-map-loader": "^3.0.0",
+    "style-loader": "^3.3.1",
+    "tailwindcss": "^3.0.2"
+  },
+  "scripts": {
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && set \"GENERATE_SOURCEMAP=false\" && react-scripts start --host 0.0.0.0",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build webpack",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.25.9",
+    "gh-pages": "^6.1.1",
+    "opencv-react": "^0.0.6",
+    "worker-loader": "^3.0.8"
+  },
+  "jest": {
+    "roots": [
+      "<rootDir>/src"
+    ],
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!src/**/*.d.ts"
+    ],
+    "setupFiles": [
+      "react-app-polyfill/jsdom"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/src/setupTests.js"
+    ],
+    "testMatch": [
+      "<rootDir>/src/**/__tests__/**/*.{js,jsx,ts,tsx}",
+      "<rootDir>/src/**/*.{spec,test}.{js,jsx,ts,tsx}"
+    ],
+    "testEnvironment": "jsdom",
+    "transform": {
+      "^.+\\.(js|jsx|mjs|cjs|ts|tsx)$": "<rootDir>/config/jest/babelTransform.js",
+      "^.+\\.css$": "<rootDir>/config/jest/cssTransform.js",
+      "^(?!.*\\.(js|jsx|mjs|cjs|ts|tsx|css|json)$)": "<rootDir>/config/jest/fileTransform.js"
+    },
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx|mjs|cjs|ts|tsx)$",
+      "^.+\\.module\\.(css|sass|scss)$"
+    ],
+    "modulePaths": [],
+    "moduleNameMapper": {
+      "^react-native$": "react-native-web",
+      "^.+\\.module\\.(css|sass|scss)$": "identity-obj-proxy"
+    },
+    "moduleFileExtensions": [
+      "web.js",
+      "js",
+      "web.ts",
+      "ts",
+      "web.tsx",
+      "tsx",
+      "json",
+      "web.jsx",
+      "jsx",
+      "node"
+    ],
+    "watchPlugins": [
+      "jest-watch-typeahead/filename",
+      "jest-watch-typeahead/testname"
+    ],
+    "resetMocks": true
+  },
+  "babel": {
+    "presets": [
+      "react-app"
+    ]
+  }
+}

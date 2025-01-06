@@ -1,0 +1,16 @@
+.header {
+    padding: 25px 0;
+    text-align: center;
+    background: wheat;
+  }
+  .header img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .vietnamese-font {
+    font-family: 'Your Vietnamese Font', sans-serif;
+  }
+  .left-sidebar {
+    margin-left: 20px;
+  }
