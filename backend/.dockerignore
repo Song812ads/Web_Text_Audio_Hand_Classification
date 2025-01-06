@@ -5,6 +5,9 @@ static/text/tf_model
 static/text/tf_model_pretrained
 static/audio_model_pre_w2v
 static/audio_model_spectrogram
+flask_session/
+sessions/
+build/
 # Ignore Python bytecode files
 __pycache__
 *.pyc

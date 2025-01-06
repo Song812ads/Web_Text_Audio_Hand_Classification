@@ -1,12 +1,14 @@
-# Use an official Python image as the base
-FROM python:3.11-slim
+FROM tensorflow/tensorflow
+
 
 # Set working directory
 WORKDIR /app
 
 # Copy the requirements file and install dependencies
 COPY requirement.txt .
-
+RUN python3 -m pip install --upgrade pip
+# Install dependencies with pip and optimize layer caching
+RUN pip install --ignore-installed blinker 
 # Install dependencies with pip and optimize layer caching
 RUN pip install --no-cache-dir -r requirement.txt
 

@@ -324,9 +324,10 @@ def text_class(data):
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    global prev_pred, dem
+    global prev_pred, dem, send
     data = request.get_json()
     if data == 'reset':
+        send= True
         return json.dumps(7, indent=2, default=int)
     data = data.get('data')
     data = np.reshape(data,(1,42))
@@ -334,13 +335,17 @@ def predict():
     pred = hand_model(data)
     if dem == COUNT and prev_pred == pred:
         prev_pred = pred
-        client.pub('/t1',str(pred))
+        if send:
+            client.pub('/t1',str(pred))
+        send = False
         return json.dumps(pred, indent=2, default=int)
     elif dem<COUNT and prev_pred == pred:
+        send = True
         prev_pred = pred
         dem = dem +1 
         return jsonify('ok'),200
     elif prev_pred!=pred:
+        send = True
         prev_pred = pred
         dem = 0
         return jsonify('ok'), 200
@@ -446,6 +451,7 @@ if __name__ == '__main__':
     hand_model = KeyPointClassifier()
     prev_pred = 8
     dem = 0
+    send = True
     # bnb_config = BitsAndBytesConfig(
     # load_in_4bit=True,
     # bnb_4bit_use_double_quant=True,
@@ -480,4 +486,4 @@ if __name__ == '__main__':
     audio_model.eval()
 
     # from gunicorn.main import run
-    socketio.run(app, host='0.0.0.0', port=8000)
+    socketio.run(app, host='0.0.0.0', port=8000,allow_unsafe_werkzeug=True)

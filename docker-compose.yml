@@ -27,7 +27,6 @@ services:
     networks:
       - my_network
 
-
   backend:
     container_name: backend
     build:
@@ -52,4 +51,4 @@ volumes:
 
 networks:
   my_network:
-    driver: host
+    driver: bridge  # Changed from 'host' to 'bridge'
