@@ -20,7 +20,7 @@ services:
       - backend
     container_name: frontend
     build:
-      context: ./my-app
+      context: ./frontend
       dockerfile: Dockerfile
     ports:
       - 3500:3000
